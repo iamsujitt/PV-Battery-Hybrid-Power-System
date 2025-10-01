@@ -49,3 +49,14 @@ Example outputs:
 1. Clone or download this repository:  
    ```bash
    git clone https://github.com/yourusername/PV-Battery-Hybrid-Power-System.git
+2. Open model.slx in MATLAB Simulink.
+
+3. Run startup.m to initialize workspace parameters.
+
+4. Start simulation and observe PV, battery, and bus voltage responses.
+
+📌 Author
+
+Sujit Kumar Chaudhary
+Electrical & Electronics Engineer | Power Systems & Renewable Energy
+📧 iamsujit33@gmail.com
