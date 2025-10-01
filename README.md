@@ -41,8 +41,9 @@ Simulation scope outputs show:
 
 Example outputs:  
 
-![PV Output](images/scope1.png)  
-![Battery Response](images/scope2.png)  
+![PV Output](PV-Battery-Hybrid-Power-System
+/scope 1.png)  
+[![Battery Response](https://github.com/iamsujitt/PV-Battery-Hybrid-Power-System/blob/main/scope%202.png)
 
 🚀 **How to Run**
 
