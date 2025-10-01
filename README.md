@@ -24,7 +24,7 @@ The system integrates a photovoltaic (PV) array with a lithium-ion battery and i
 
 📂 **Repository Contents**
 
-- `model.slx` → Simulink model (replace with actual file)  
+- `model.slx` → Simulink model https://github.com/iamsujitt/PV-Battery-Hybrid-Power-System/blob/main/Diagram.png
 - `MPPT_control.m` → MATLAB function implementing Perturb & Observe algorithm  
 - `startup.m` → MATLAB script to initialize system parameters  
 - `images/` → Simulation results (scope outputs, model diagram)  
